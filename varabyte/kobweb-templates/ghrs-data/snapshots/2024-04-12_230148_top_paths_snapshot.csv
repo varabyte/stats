@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates/tree/d39ce9765db1fd1f1351b09c84719a10e253829e/examples,51,8
+/varabyte/kobweb-templates/tree/main/examples,49,13
+/varabyte/kobweb-templates/blob/d39ce9765db1fd1f1351b09c84719a10e253829e/examples/todo/site/src/jsMain/kotlin/todo/pages/Index.kt,39,2
+/varabyte/kobweb-templates/tree/d39ce9765db1fd1f1351b09c84719a10e253829e,28,11
+/varabyte/kobweb-templates/blob/d39ce9765db1fd1f1351b09c84719a10e253829e/examples/todo/site/build.gradle.kts,20,2
+/varabyte/kobweb-templates/blob/d39ce9765db1fd1f1351b09c84719a10e253829e/examples/chat/chat/src/jsMain/kotlin/chat/chat/pages/Chat.kt,19,1
+/varabyte/kobweb-templates/tree/main/examples/chat,18,6
+/varabyte/kobweb-templates/blob/d39ce9765db1fd1f1351b09c84719a10e253829e/examples/todo/site/src/jvmMain/kotlin/todo/api/Add.kt,18,2
+/varabyte/kobweb-templates/tree/main/app,16,5
+/varabyte/kobweb-templates/tree/d39ce9765db1fd1f1351b09c84719a10e253829e/examples/chat,16,3
