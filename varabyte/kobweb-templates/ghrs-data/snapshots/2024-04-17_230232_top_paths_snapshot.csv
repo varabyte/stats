@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates/tree/main/examples,48,11
+/varabyte/kobweb-templates/tree/d39ce9765db1fd1f1351b09c84719a10e253829e/examples,41,7
+/varabyte/kobweb-templates/blob/d39ce9765db1fd1f1351b09c84719a10e253829e/examples/todo/site/src/jsMain/kotlin/todo/pages/Index.kt,33,2
+/varabyte/kobweb-templates/blob/d39ce9765db1fd1f1351b09c84719a10e253829e/examples/todo/site/build.gradle.kts,20,2
+/varabyte/kobweb-templates/tree/d39ce9765db1fd1f1351b09c84719a10e253829e,19,7
+/varabyte/kobweb-templates/tree/70b6316980c7acfb805b46e77744907ad26bbc9b/examples,19,3
+/varabyte/kobweb-templates/blob/d39ce9765db1fd1f1351b09c84719a10e253829e/examples/chat/chat/src/jsMain/kotlin/chat/chat/pages/Chat.kt,17,1
+/varabyte/kobweb-templates,16,11
+/varabyte/kobweb-templates/tree/d39ce9765db1fd1f1351b09c84719a10e253829e/examples/todo,16,3
+/varabyte/kobweb-templates/blob/d39ce9765db1fd1f1351b09c84719a10e253829e/examples/todo/site/src/jvmMain/kotlin/todo/api/Add.kt,16,2
