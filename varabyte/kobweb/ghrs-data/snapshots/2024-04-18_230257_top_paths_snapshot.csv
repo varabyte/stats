@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb,1082,431
+/varabyte/kobweb/tree/main/frontend,79,17
+/varabyte/kobweb/issues,70,29
+/varabyte/kobweb/blob/main/README.md,53,15
+/varabyte/kobweb/commits/main,44,6
+/varabyte/kobweb/tree/main/playground,37,9
+/varabyte/kobweb/tree/main/frontend/silk-widgets/src/jsMain/kotlin/com/varabyte/kobweb/silk/components,37,5
+/varabyte/kobweb/tree/main/common,35,9
+/varabyte/kobweb/blob/main/COMPATIBILITY.md,32,12
+/varabyte/kobweb/blob/d6301011edf4e78f247b0780ad73df54a031438d/frontend/kobweb-core/src/jsMain/kotlin/com/varabyte/kobweb/streams/ApiStream.kt,24,4
