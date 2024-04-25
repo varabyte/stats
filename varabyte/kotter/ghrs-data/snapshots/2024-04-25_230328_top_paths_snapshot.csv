@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kotter,121,79
+/varabyte/kotter/tree/main/examples,21,6
+/varabyte/kotter/tree/main/examples/wordle,15,4
+/varabyte/kotter/tree/main/examples/snake,13,5
+/varabyte/kotter/blob/main/examples/snake/src/main/kotlin/main.kt,10,2
+/varabyte/kotter/tree/main/kotter/src,9,3
+/varabyte/kotter/tree/main/kotterx/kotter-test-support,9,1
+/varabyte/kotter/blob/main/README.md,8,3
+/varabyte/kotter/tree/main/examples/wordle/src/main/kotlin,8,3
+/varabyte/kotter/tree/main/kotter,8,2
