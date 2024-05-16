@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/truthish,11,9
+/varabyte/truthish/tree/main/src,5,2
+/varabyte/truthish/blob/main/build.gradle.kts,4,2
+/varabyte/truthish/blob/main/.github/workflows/coverage-badge.yml,4,1
+/varabyte/truthish/tree/main/.github/workflows,3,1
+/varabyte/truthish/tree/main/src/androidMain,3,1
+/varabyte/truthish/tree/main/src/commonMain/kotlin/com/varabyte/truthish,3,1
+/varabyte/truthish/tree/main/src/commonMain/kotlin/com/varabyte/truthish/subjects,3,1
+/varabyte/truthish/blob/main/.github/workflows/gradle-test-all.yml,2,1
+/varabyte/truthish/blob/main/.github/workflows/publish.yml,2,1
