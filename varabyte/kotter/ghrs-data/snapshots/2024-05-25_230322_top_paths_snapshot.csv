@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kotter,94,51
+/varabyte/kotter/issues,22,5
+/varabyte/kotter/tree/main/examples,9,2
+/varabyte/kotter/blob/main/kotter/src/jvmMain/kotlin/com/varabyte/kotter/terminal/system/SystemTerminal.kt,8,1
+/varabyte/kotter/blob/main/kotter/src/commonMain/kotlin/com/varabyte/kotter/foundation/Session.kt,7,1
+/varabyte/kotter/blob/main/kotter/src/jvmMain/kotlin/com/varabyte/kotter/terminal/virtual/VirtualTerminal.kt,7,1
+/varabyte/kotter/tree/main/kotter,6,2
+/varabyte/kotter/blob/main/examples/snake/build.gradle.kts,5,1
+/varabyte/kotter/blob/main/kotter/src/jvmMain/kotlin/com/varabyte/kotter/foundation/SessionSupport.kt,5,1
+/varabyte/kotter/issues/66,5,1
