@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb,986,412
+/varabyte/kobweb/issues,105,38
+/varabyte/kobweb/blob/main/README.md,65,15
+/varabyte/kobweb/blob/main/docs/css-style.md,63,18
+/varabyte/kobweb/releases,36,23
+/varabyte/kobweb/releases/tag/v0.18.0,36,20
+/varabyte/kobweb/blob/main/COMPATIBILITY.md,36,15
+/varabyte/kobweb/tree/main/frontend,32,10
+/varabyte/kobweb/tree/main/docs,28,11
+/varabyte/kobweb/actions/workflows/publish.yml,27,2
