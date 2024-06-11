@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kotter,185,141
+/varabyte/kotter/tree/main/examples,35,8
+/varabyte/kotter/tree/main/examples/life,28,6
+/varabyte/kotter/tree/main/examples/doomfire,18,6
+/varabyte/kotter/tree/main/kotter,18,4
+/varabyte/kotter/tree/main/examples/life/src/main/kotlin,17,2
+/varabyte/kotter/tree/main/examples/snake,14,5
+/varabyte/kotter/blob/main/examples/doomfire/src/main/kotlin/main.kt,12,6
+/varabyte/kotter/tree/main/examples/wordle,11,5
+/varabyte/kotter/blob/main/build.gradle.kts,10,3
