@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb,878,382
+/varabyte/kobweb/issues,118,36
+/varabyte/kobweb/blob/main/COMPATIBILITY.md,55,14
+/varabyte/kobweb/blob/main/README.md,52,18
+/varabyte/kobweb/tree/main/frontend,40,15
+/varabyte/kobweb/tree/main/backend,32,9
+/varabyte/kobweb/pulls,26,11
+/varabyte/kobweb/tree/main/common,26,8
+/varabyte/kobweb/blob/e4984af8ae9a4141bb7c9f965d338ddcbf4f6fc9/frontend/kobweb-core/src/jsMain/kotlin/com/varabyte/kobweb/navigation/Router.kt,24,6
+/varabyte/kobweb/discussions,23,7
