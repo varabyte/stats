@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/truthish,28,16
+/varabyte/truthish/tree/main/src/commonMain/kotlin/com/varabyte/truthish,26,5
+/varabyte/truthish/tree/main/src,22,5
+/varabyte/truthish/tree/main/src/commonMain/kotlin/com/varabyte/truthish/subjects,13,4
+/varabyte/truthish/actions/workflows/publish.yml,13,1
+/varabyte/truthish/blob/main/src/commonMain/kotlin/com/varabyte/truthish/Truth.kt,11,4
+/varabyte/truthish/blob/main/src/commonMain/kotlin/com/varabyte/truthish/subjects/AnySubject.kt,8,4
+/varabyte/truthish/tree/main/src/commonMain/kotlin/com/varabyte/truthish/failure,5,2
+/varabyte/truthish/actions/runs/9570609088,4,1
+/varabyte/truthish/actions/workflows/gradle-test-all.yml,4,1
