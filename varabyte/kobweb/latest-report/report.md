@@ -1,5 +1,5 @@
 % Statistics for varabyte/kobweb
-% Generated for [varabyte/kobweb](https://github.com/varabyte/kobweb) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-07-19 22:45 UTC.
+% Generated for [varabyte/kobweb](https://github.com/varabyte/kobweb) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-07-19 23:03 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `kobweb.varabyte.com`, 02: `Google`, 03: `linkedin.com`, 04: `github.com`, 05: `com.linkedin.android`, 06: `reddit.com`, 07: `Bing`, 08: `search.brave.com`, 09: `DuckDuckGo`, 10: `youtube.com`, 11: `medium.com`, 12: `bitspittle.dev`, 13: `yandex.ru`, 14: `com.google.android.gm`, 15: `udemy.com`
+Top 15 referrers: 01: `kobweb.varabyte.com`, 02: `Google`, 03: `linkedin.com`, 04: `github.com`, 05: `com.linkedin.android`, 06: `reddit.com`, 07: `Bing`, 08: `search.brave.com`, 09: `DuckDuckGo`, 10: `youtube.com`, 11: `bitspittle.dev`, 12: `medium.com`, 13: `com.google.android.gm`, 14: `yandex.ru`, 15: `libhunt.com`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `kobweb.varabyte.com`, 02: `Google`, 03: `linkedin.com`, 0
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues`, 03: `/releases/tag/v0.18.0`, 04: `/releases`, 05: `/releases/tag/v0.18.1`, 06: `/pulls`, 07: `/blob/main/COMPATIBILITY.md`, 08: `/releases/tag/v0.18.2`, 09: `/blob/main/docs/css-style.md`, 10: `/tree/main/frontend`, 11: `/blob/main/README.md`, 12: `/tree/main`, 13: `/releases/tag/v0.17.1`, 14: `/tree/main/docs`, 15: `/tree/main/common`
+Top 15 paths: 01: `/`, 02: `/issues`, 03: `/releases/tag/v0.18.0`, 04: `/releases`, 05: `/releases/tag/v0.18.1`, 06: `/pulls`, 07: `/blob/main/COMPATIBILITY.md`, 08: `/releases/tag/v0.18.2`, 09: `/blob/main/docs/css-style.md`, 10: `/tree/main/frontend`, 11: `/blob/main/README.md`, 12: `/releases/tag/v0.17.1`, 13: `/tree/main`, 14: `/tree/main/docs`, 15: `/tree/main/common`
 
 
 <script type="text/javascript">
