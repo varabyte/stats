@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates/tree/main/app,17,5
+/varabyte/kobweb-templates/tree/main/app/default,16,5
+/varabyte/kobweb-templates/tree/main/examples/todo/site/src/jvmMain/kotlin/todo,16,1
+/varabyte/kobweb-templates,14,10
+/varabyte/kobweb-templates/tree/main/examples,14,5
+/varabyte/kobweb-templates/tree/main/examples/todo/site/src/jvmMain/kotlin/todo/api,12,1
+/varabyte/kobweb-templates/blob/0e3f5ecebfa7f9b1c07c5fb295c2a0363e5320d3/examples/chat/core/src/jsMain/kotlin/chat/core/components/widgets/TitledTextInput.kt,10,1
+/varabyte/kobweb-templates/tree/0e3f5ecebfa7f9b1c07c5fb295c2a0363e5320d3,8,6
+/varabyte/kobweb-templates/blob/main/app/default/build.gradle.kts,8,2
+/varabyte/kobweb-templates/blob/main/app/default/gradle/libs.versions.toml,8,2
