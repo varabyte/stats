@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates/tree/main/examples,15,7
+/varabyte/kobweb-templates,13,13
+/varabyte/kobweb-templates/tree/main/app,11,5
+/varabyte/kobweb-templates/tree/0e3f5ecebfa7f9b1c07c5fb295c2a0363e5320d3,10,7
+/varabyte/kobweb-templates/tree/0e3f5ecebfa7f9b1c07c5fb295c2a0363e5320d3/examples,10,3
+/varabyte/kobweb-templates/blob/0e3f5ecebfa7f9b1c07c5fb295c2a0363e5320d3/examples/chat/core/src/jsMain/kotlin/chat/core/components/widgets/TitledTextInput.kt,10,1
+/varabyte/kobweb-templates/tree/main/app/default,8,4
+/varabyte/kobweb-templates/blob/0e3f5ecebfa7f9b1c07c5fb295c2a0363e5320d3/examples/chat/auth/src/jsMain/kotlin/chat/auth/pages/account/Create.kt,8,2
+/varabyte/kobweb-templates/blob/0e3f5ecebfa7f9b1c07c5fb295c2a0363e5320d3/examples/todo/site/src/jsMain/kotlin/todo/pages/Index.kt,8,1
+/varabyte/kobweb-templates/blob/0e3f5ecebfa7f9b1c07c5fb295c2a0363e5320d3/examples/chat/auth/src/jvmMain/kotlin/chat/auth/api/account/Create.kt,6,2
