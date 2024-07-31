@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates/tree/0e3f5ecebfa7f9b1c07c5fb295c2a0363e5320d3/examples,18,5
+/varabyte/kobweb-templates/tree/0e3f5ecebfa7f9b1c07c5fb295c2a0363e5320d3,14,9
+/varabyte/kobweb-templates,11,11
+/varabyte/kobweb-templates/tree/main/examples,11,5
+/varabyte/kobweb-templates/blob/0e3f5ecebfa7f9b1c07c5fb295c2a0363e5320d3/examples/chat/auth/src/jsMain/kotlin/chat/auth/pages/account/Create.kt,10,2
+/varabyte/kobweb-templates/blob/0e3f5ecebfa7f9b1c07c5fb295c2a0363e5320d3/examples/chat/core/src/jsMain/kotlin/chat/core/components/widgets/TitledTextInput.kt,10,1
+/varabyte/kobweb-templates/blob/0e3f5ecebfa7f9b1c07c5fb295c2a0363e5320d3/examples/todo/site/src/jsMain/kotlin/todo/pages/Index.kt,8,1
+/varabyte/kobweb-templates/tree/main/app,7,3
+/varabyte/kobweb-templates/blob/0e3f5ecebfa7f9b1c07c5fb295c2a0363e5320d3/examples/clock/site/src/jsMain/kotlin/clock/components/layouts/PageLayout.kt,6,3
+/varabyte/kobweb-templates/blob/0e3f5ecebfa7f9b1c07c5fb295c2a0363e5320d3/examples/chat/auth/src/jsMain/kotlin/chat/auth/pages/account/Login.kt,6,2
