@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb,906,371
+/varabyte/kobweb/issues,109,41
+/varabyte/kobweb/discussions,63,15
+/varabyte/kobweb/blob/main/COMPATIBILITY.md,50,18
+/varabyte/kobweb/blob/main/README.md,45,14
+/varabyte/kobweb/blob/main/docs/css-style.md,26,8
+/varabyte/kobweb/tree/main/frontend,23,10
+/varabyte/kobweb/releases,21,16
+/varabyte/kobweb/tree/main/playground,21,5
+/varabyte/kobweb/blob/main/frontend/browser-ext/src/jsMain/kotlin/com/varabyte/kobweb/browser/file/FileUtils.kt,19,2
