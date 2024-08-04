@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates,14,12
+/varabyte/kobweb-templates/tree/0e3f5ecebfa7f9b1c07c5fb295c2a0363e5320d3/examples,14,5
+/varabyte/kobweb-templates/tree/0e3f5ecebfa7f9b1c07c5fb295c2a0363e5320d3,11,9
+/varabyte/kobweb-templates/tree/main/examples,9,4
+/varabyte/kobweb-templates/blob/0e3f5ecebfa7f9b1c07c5fb295c2a0363e5320d3/examples/clock/site/src/jsMain/kotlin/clock/components/layouts/PageLayout.kt,6,3
+/varabyte/kobweb-templates/tree/main/examples/clock/site/src/jsMain,5,1
+/varabyte/kobweb-templates/tree/main/examples/clock/site/src/jsMain/kotlin/clock,5,1
+/varabyte/kobweb-templates/issues,4,4
+/varabyte/kobweb-templates/blob/0e3f5ecebfa7f9b1c07c5fb295c2a0363e5320d3/examples/clock/site/src/jsMain/kotlin/clock/pages/Index.kt,4,2
+/varabyte/kobweb-templates/blob/main/app/default/.gitignore,4,2
