@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates/tree/main/app/default,32,5
+/varabyte/kobweb-templates/tree/main/app,30,8
+/varabyte/kobweb-templates/tree/main/examples,29,10
+/varabyte/kobweb-templates,21,16
+/varabyte/kobweb-templates/blob/main/app/default/.kobweb-template.yaml,14,2
+/varabyte/kobweb-templates/tree/main/examples/todo,13,3
+/varabyte/kobweb-templates/tree/main/app/default/site,12,4
+/varabyte/kobweb-templates/blob/main/examples/todo/.kobweb-template.yaml,12,2
+/varabyte/kobweb-templates/tree/main/app/default/site/src/site,11,4
+/varabyte/kobweb-templates/tree/main/examples/chat,11,3
