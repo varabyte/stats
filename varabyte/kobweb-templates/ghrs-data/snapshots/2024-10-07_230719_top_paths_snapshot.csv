@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates,16,13
+/varabyte/kobweb-templates/tree/main/examples,13,8
+/varabyte/kobweb-templates/tree/5bc86f4cedd27ba5fc6f6e8775233e5d9f4ecc91,12,8
+/varabyte/kobweb-templates/tree/5bc86f4cedd27ba5fc6f6e8775233e5d9f4ecc91/examples,9,6
+/varabyte/kobweb-templates/tree/main/app,9,4
+/varabyte/kobweb-templates/tree/main/app/default,7,1
+/varabyte/kobweb-templates/tree/5bc86f4cedd27ba5fc6f6e8775233e5d9f4ecc91/app,5,4
+/varabyte/kobweb-templates/blob/5bc86f4cedd27ba5fc6f6e8775233e5d9f4ecc91/app/default/site/src/site/AppStyles.kt.ftl,5,2
+/varabyte/kobweb-templates/tree/5bc86f4cedd27ba5fc6f6e8775233e5d9f4ecc91/examples/chat,3,3
+/varabyte/kobweb-templates/tree/main/examples/todo,3,3
