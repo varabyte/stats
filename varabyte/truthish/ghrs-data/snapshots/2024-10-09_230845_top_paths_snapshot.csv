@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/truthish,13,8
+/varabyte/truthish/blob/main/src/commonMain/kotlin/com/varabyte/truthish/subjects/AnySubject.kt,2,1
+/varabyte/truthish/blob/main/src/commonMain/kotlin/com/varabyte/truthish/Truth.kt,2,1
+/varabyte/truthish/blob/24af78dea3526c5a62246f09ceae2b02691615de/.github/workflows/publish.yml,1,1
+/varabyte/truthish/blob/main/kotlin-js-store/yarn.lock,1,1
+/varabyte/truthish/blob/main/src/androidMain/AndroidManifest.xml,1,1
+/varabyte/truthish/blob/main/src/commonMain/kotlin/com/varabyte/truthish/failure/FailureStrategy.kt,1,1
+/varabyte/truthish/blob/main/src/commonMain/kotlin/com/varabyte/truthish/failure/Summaries.kt,1,1
+/varabyte/truthish/blob/main/src/commonMain/kotlin/com/varabyte/truthish/failure/ValueStringifier.kt,1,1
+/varabyte/truthish/blob/main/src/commonMain/kotlin/com/varabyte/truthish/subjects/BooleanSubject.kt,1,1
