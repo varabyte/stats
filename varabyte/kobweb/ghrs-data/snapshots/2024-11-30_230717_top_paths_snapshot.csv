@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb,922,358
+/varabyte/kobweb/issues,82,28
+/varabyte/kobweb/releases,49,23
+/varabyte/kobweb/blob/main/COMPATIBILITY.md,35,23
+/varabyte/kobweb/tree/main/frontend,30,11
+/varabyte/kobweb/tree/main/backend/kobweb-api/src/main/kotlin/com/varabyte/kobweb/api,26,4
+/varabyte/kobweb/releases/tag/v0.19.3,24,16
+/varabyte/kobweb/tree/main,24,11
+/varabyte/kobweb/tree/main/backend,19,8
+/varabyte/kobweb/actions/workflows/publish.yml,17,1
