@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kotter,88,52
+/varabyte/kotter/issues/114,16,4
+/varabyte/kotter/issues,8,4
+/varabyte/kotter/actions/workflows/publish.yml,6,1
+/varabyte/kotter/blob/3ce3a096a0eedbaecd656e4a452cf07d362b8fc0/kotter/build.gradle.kts,4,3
+/varabyte/kotter/actions/workflows/gradle-test.yml,4,1
+/varabyte/kotter/blob/main/examples/mosaic/robot/src/main/kotlin/main.kt,3,2
+/varabyte/kotter/tree/main/examples,3,2
+/varabyte/kotter/blob/main/LICENSE,3,1
+/varabyte/kotter/commit/08d083d74d1855229be6f73328a9125092099c7f,3,1
