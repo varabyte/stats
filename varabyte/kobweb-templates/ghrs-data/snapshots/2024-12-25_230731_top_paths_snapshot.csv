@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates,11,10
+/varabyte/kobweb-templates/tree/main/examples/todo,9,5
+/varabyte/kobweb-templates/tree/main/examples,8,7
+/varabyte/kobweb-templates/tree/ee1047ef7c9c2268a3406a1d3d443918c8e61012,8,6
+/varabyte/kobweb-templates/tree/main/app,5,5
+/varabyte/kobweb-templates/tree/main/app/default,4,4
+/varabyte/kobweb-templates/blob/ee1047ef7c9c2268a3406a1d3d443918c8e61012/examples/imageprocessor/worker/src/jsMain/kotlin/imageprocessor/worker/ImageProcessorWorkerFactory.kt,4,2
+/varabyte/kobweb-templates/blob/main/app/default/site/src/site/pages/Index.kt.ftl,4,1
+/varabyte/kobweb-templates/blob/main/examples/chat/gradle/libs.versions.toml,4,1
+/varabyte/kobweb-templates/blob/main/app/default/site/src/site/components/widgets/IconButton.kt.ftl,3,3
