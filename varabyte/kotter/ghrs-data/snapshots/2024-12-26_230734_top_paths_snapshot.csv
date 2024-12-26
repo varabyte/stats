@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kotter,99,59
+/varabyte/kotter/releases/tag/v1.2.1,18,11
+/varabyte/kotter/issues,18,6
+/varabyte/kotter/tree/main/kotter,11,7
+/varabyte/kotter/tree/main,11,6
+/varabyte/kotter/blob/3ce3a096a0eedbaecd656e4a452cf07d362b8fc0/kotter/build.gradle.kts,10,7
+/varabyte/kotter/tree/main/examples,8,4
+/varabyte/kotter/issues/114,8,2
+/varabyte/kotter/actions/workflows/publish.yml,7,1
+/varabyte/kotter/tree/main/kotter/src,6,6
