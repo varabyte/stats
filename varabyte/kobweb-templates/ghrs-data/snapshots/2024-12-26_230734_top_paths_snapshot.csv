@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates,11,9
+/varabyte/kobweb-templates/tree/ee1047ef7c9c2268a3406a1d3d443918c8e61012,10,8
+/varabyte/kobweb-templates/tree/main/examples/todo,9,5
+/varabyte/kobweb-templates/tree/main/examples,8,7
+/varabyte/kobweb-templates/tree/main/app,7,6
+/varabyte/kobweb-templates/tree/main/app/default,5,4
+/varabyte/kobweb-templates/blob/main/examples/chat/gradle/libs.versions.toml,5,2
+/varabyte/kobweb-templates/tree/ee1047ef7c9c2268a3406a1d3d443918c8e61012/examples,4,4
+/varabyte/kobweb-templates/tree/main/app/default/site,4,4
+/varabyte/kobweb-templates/blob/ee1047ef7c9c2268a3406a1d3d443918c8e61012/examples/imageprocessor/worker/src/jsMain/kotlin/imageprocessor/worker/ImageProcessorWorkerFactory.kt,4,2
