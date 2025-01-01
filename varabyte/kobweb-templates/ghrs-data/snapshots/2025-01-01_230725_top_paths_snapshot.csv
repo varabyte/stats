@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates,13,9
+/varabyte/kobweb-templates/tree/ee1047ef7c9c2268a3406a1d3d443918c8e61012,12,9
+/varabyte/kobweb-templates/tree/main/examples,8,7
+/varabyte/kobweb-templates/tree/ee1047ef7c9c2268a3406a1d3d443918c8e61012/examples,7,6
+/varabyte/kobweb-templates/tree/main/app,7,4
+/varabyte/kobweb-templates/tree/ee1047ef7c9c2268a3406a1d3d443918c8e61012/app,6,6
+/varabyte/kobweb-templates/tree/main/app/default,6,3
+/varabyte/kobweb-templates/tree/main/app/default/site,6,3
+/varabyte/kobweb-templates/tree/main/app/default/site/src/site,5,3
+/varabyte/kobweb-templates/blob/main/examples/chat/gradle/libs.versions.toml,5,2
