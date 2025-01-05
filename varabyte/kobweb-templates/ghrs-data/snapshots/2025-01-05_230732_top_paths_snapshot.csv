@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates,15,8
+/varabyte/kobweb-templates/tree/ee1047ef7c9c2268a3406a1d3d443918c8e61012,11,8
+/varabyte/kobweb-templates/tree/main/examples,8,6
+/varabyte/kobweb-templates/tree/main/app,8,4
+/varabyte/kobweb-templates/tree/ee1047ef7c9c2268a3406a1d3d443918c8e61012/examples,7,6
+/varabyte/kobweb-templates/tree/ee1047ef7c9c2268a3406a1d3d443918c8e61012/app,5,5
+/varabyte/kobweb-templates/tree/main/app/default,5,2
+/varabyte/kobweb-templates/tree/main/app/default/site,5,2
+/varabyte/kobweb-templates/blob/main/app/default/site/resources/markdown/About.md,5,1
+/varabyte/kobweb-templates/blob/main/app/default/site/src/site/pages/Index.kt.ftl,4,2
