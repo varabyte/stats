@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates,14,7
+/varabyte/kobweb-templates/tree/main/examples,8,6
+/varabyte/kobweb-templates/tree/ee1047ef7c9c2268a3406a1d3d443918c8e61012,7,6
+/varabyte/kobweb-templates/tree/main/app,6,2
+/varabyte/kobweb-templates/tree/ee1047ef7c9c2268a3406a1d3d443918c8e61012/examples,5,4
+/varabyte/kobweb-templates/blob/main/app/default/site/resources/markdown/About.md,5,1
+/varabyte/kobweb-templates/tree/ee1047ef7c9c2268a3406a1d3d443918c8e61012/examples/todo/site/src,4,2
+/varabyte/kobweb-templates/tree/ee1047ef7c9c2268a3406a1d3d443918c8e61012/examples/todo/site/src/jsMain/kotlin/todo/components/widgets,4,2
+/varabyte/kobweb-templates/tree/main/app/default,4,1
+/varabyte/kobweb-templates/tree/main/app/default/site,4,1
