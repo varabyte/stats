@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb,799,312
+/varabyte/kobweb/actions/workflows/publish.yml,70,1
+/varabyte/kobweb/releases,50,24
+/varabyte/kobweb/issues,41,19
+/varabyte/kobweb/actions,32,2
+/varabyte/kobweb/blob/main/frontend/kobweb-compose/src/jsMain/kotlin/com/varabyte/kobweb/compose/foundation/layout/Box.kt,23,1
+/varabyte/kobweb/blob/main/README.md,18,6
+/varabyte/kobweb/releases/tag/v0.20.1,17,7
+/varabyte/kobweb/issues/641,16,13
+/varabyte/kobweb/releases/tag/v0.20.2,16,13
