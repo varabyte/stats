@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kotter,115,62
+/varabyte/kotter/tree/main/kotterx/kotter-test-support,13,2
+/varabyte/kotter/tree/main/examples,11,4
+/varabyte/kotter/pull/125,10,4
+/varabyte/kotter/actions/workflows/publish.yml,10,1
+/varabyte/kotter/issues/126,9,5
+/varabyte/kotter/tree/main/examples/input,8,3
+/varabyte/kotter/blob/3ce3a096a0eedbaecd656e4a452cf07d362b8fc0/kotter/build.gradle.kts,7,6
+/varabyte/kotter/blob/main/examples/list/src/main/kotlin/main.kt,7,3
+/varabyte/kotter/tree/main/examples/doomfire,6,5
