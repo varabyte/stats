@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb,1015,436
+/varabyte/kobweb/issues,77,31
+/varabyte/kobweb/releases,45,17
+/varabyte/kobweb/blob/main/README.md,45,10
+/varabyte/kobweb/blob/main/COMPATIBILITY.md,41,29
+/varabyte/kobweb/releases/tag/v0.20.2,20,15
+/varabyte/kobweb/tree/main/frontend,19,13
+/varabyte/kobweb/issues/649,18,9
+/varabyte/Kobweb,17,5
+/varabyte/kobweb/blob/8f104e3bed69bf05fead154d57d4d66ec3adadc2/frontend/kobweb-compose/src/jsMain/kotlin/com/varabyte/kobweb/compose/style/ArrangementExtensions.kt,16,1
