@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/truthish,22,15
+/varabyte/truthish/issues/10,8,3
+/varabyte/truthish/actions/workflows/publish.yml,5,1
+/varabyte/truthish/issues,5,1
+/varabyte/truthish/blob/v1.0.0/.github/workflows/publish.yml,3,1
+/varabyte/truthish/blob/5ff1bd42479861c85f84ce143694df8d6e848a81/.github/workflows/publish.yml,2,2
+/varabyte/truthish/tree/main/.github/workflows,2,2
+/varabyte/truthish/actions,2,1
+/varabyte/truthish/actions/runs/12923648774,2,1
+/varabyte/truthish/blob/v1.0.0/.github/workflows/coverage-badge.yml,2,1
