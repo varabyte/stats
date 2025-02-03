@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/truthish,19,15
+/varabyte/truthish/issues/10,5,3
+/varabyte/truthish/actions/workflows/publish.yml,5,1
+/varabyte/truthish/blob/v1.0.0/.github/workflows/publish.yml,3,1
+/varabyte/truthish/actions,2,1
+/varabyte/truthish/actions/runs/12923648774,2,1
+/varabyte/truthish/blob/v1.0.0/.github/workflows/coverage-badge.yml,2,1
+/varabyte/truthish/actions/runs/12923648774/job/36041288490,1,1
+/varabyte/truthish/blob/main/.github/workflows/coverage-badge.yml,1,1
+/varabyte/truthish/blob/v1.0.0/.github/workflows/gradle-test-all.yml,1,1
