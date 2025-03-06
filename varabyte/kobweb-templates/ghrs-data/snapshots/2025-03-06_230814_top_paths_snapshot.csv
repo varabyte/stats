@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates,16,11
+/varabyte/kobweb-templates/tree/799a4e67302e657b14ae8962a59b80ad4e1bdbfd,14,12
+/varabyte/kobweb-templates/tree/799a4e67302e657b14ae8962a59b80ad4e1bdbfd/examples,14,9
+/varabyte/kobweb-templates/tree/main/examples,14,7
+/varabyte/kobweb-templates/tree/main/examples/chat,12,4
+/varabyte/kobweb-templates/tree/main,7,3
+/varabyte/kobweb-templates/tree/main/examples/chat/auth,7,3
+/varabyte/kobweb-templates/blob/799a4e67302e657b14ae8962a59b80ad4e1bdbfd/examples/chat/auth/src/jsMain/kotlin/chat/auth/pages/account/Login.kt,7,2
+/varabyte/kobweb-templates/blob/799a4e67302e657b14ae8962a59b80ad4e1bdbfd/examples/chat/auth/src/jvmMain/kotlin/chat/auth/model/Accounts.kt,7,2
+/varabyte/kobweb-templates/tree/main/examples/chat/auth/src,7,2
