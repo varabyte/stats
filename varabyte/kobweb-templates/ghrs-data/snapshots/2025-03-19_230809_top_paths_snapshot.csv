@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates,33,20
+/varabyte/kobweb-templates/tree/main/examples,19,10
+/varabyte/kobweb-templates/tree/main/examples/chat,12,5
+/varabyte/kobweb-templates/blob/main/examples/chat/chat/src/jsMain/kotlin/chat/chat/pages/Chat.kt,8,5
+/varabyte/kobweb-templates/tree/main/app,6,5
+/varabyte/kobweb-templates/tree/main/examples/todo,5,5
+/varabyte/kobweb-templates/tree/main/examples/chat/site,5,3
+/varabyte/kobweb-templates/tree/main/examples/todo/site/src,5,2
+/varabyte/kobweb-templates/blob/main/examples/chat/build.gradle.kts,4,3
+/varabyte/kobweb-templates/blob/main/examples/chat/site/src/jsMain/kotlin/chat/site/pages/Index.kt,4,3
