@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb,1150,573
+/varabyte/kobweb/issues,97,33
+/varabyte/kobweb/pulls,57,17
+/varabyte/kobweb/releases,41,28
+/varabyte/kobweb/releases/tag/v0.20.4,37,23
+/varabyte/kobweb/blob/main/README.md,32,13
+/varabyte/kobweb/tree/main/frontend,26,19
+/varabyte/kobweb/actions/workflows/publish.yml,24,1
+/varabyte/kobweb/actions,23,4
+/varabyte/kobweb/tree/feature/readme-gutting,21,2
