@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates,15,7
+/varabyte/kobweb-templates/tree/9c0212344f4b987f3a64338dd2d5e123d01b9e4b,12,7
+/varabyte/kobweb-templates/tree/main/examples,11,4
+/varabyte/kobweb-templates/tree/main/examples/chat,10,2
+/varabyte/kobweb-templates/tree/9c0212344f4b987f3a64338dd2d5e123d01b9e4b/examples,8,4
+/varabyte/kobweb-templates/tree/9c0212344f4b987f3a64338dd2d5e123d01b9e4b/examples/todo/site/src/jsMain,5,3
+/varabyte/kobweb-templates/blob/main/examples/chat/core/src/jsMain/kotlin/chat/core/components/sections/CenteredColumnContent.kt,5,1
+/varabyte/kobweb-templates/tree/9c0212344f4b987f3a64338dd2d5e123d01b9e4b/examples/todo/site/src/jsMain/kotlin/todo,4,3
+/varabyte/kobweb-templates/blob/main/app/default/.kobweb-template.yaml,4,2
+/varabyte/kobweb-templates/tree/main/app,4,2
