@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb,867,483
+/varabyte/kobweb/issues,71,25
+/varabyte/kobweb/pulls,43,12
+/varabyte/kobweb/releases,40,29
+/varabyte/kobweb/tree/main/frontend,30,18
+/varabyte/kobweb/actions/workflows/publish.yml,28,1
+/varabyte/kobweb/actions,24,1
+/varabyte/kobweb/tree/main/frontend/silk-widgets/src/jsMain/kotlin/com/varabyte/kobweb/silk/components,18,3
+/varabyte/kobweb/tree/main/playground,15,9
+/varabyte/kobweb/releases/tag/v0.20.5,14,10
