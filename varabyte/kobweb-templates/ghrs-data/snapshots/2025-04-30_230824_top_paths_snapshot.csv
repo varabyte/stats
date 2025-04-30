@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates,21,19
+/varabyte/kobweb-templates/tree/main/examples,16,11
+/varabyte/kobweb-templates/tree/d151f08a366cef4f44f344ff8e3368c00e2c2955,8,5
+/varabyte/kobweb-templates/tree/d151f08a366cef4f44f344ff8e3368c00e2c2955/examples,5,2
+/varabyte/kobweb-templates/tree/main/examples/chat,3,2
+/varabyte/kobweb-templates/blob/d151f08a366cef4f44f344ff8e3368c00e2c2955/examples/chat/site/src/jsMain/kotlin/chat/site/AppEntry.kt,2,2
+/varabyte/kobweb-templates/blob/main/app/default/site/build.gradle.kts.ftl,2,2
+/varabyte/kobweb-templates/tree/d151f08a366cef4f44f344ff8e3368c00e2c2955/app,2,2
+/varabyte/kobweb-templates/tree/d151f08a366cef4f44f344ff8e3368c00e2c2955/app/default,2,2
+/varabyte/kobweb-templates/tree/main/app,2,2
