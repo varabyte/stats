@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb,629,274
+/varabyte/kobweb/pulls,110,8
+/varabyte/kobweb/pull/694,56,3
+/varabyte/kobweb/issues,44,19
+/varabyte/kobweb/pull/693,44,5
+/varabyte/kobweb/tree/main/frontend,38,13
+/varabyte/kobweb/releases,26,17
+/varabyte/kobweb/pull/694/files,24,2
+/varabyte/kobweb/actions/workflows/publish.yml,20,1
+/varabyte/kobweb/blob/dev/frontend/compose-html-ext/src/jsMain/kotlin/com/varabyte/kobweb/compose/css/CONTRIBUTING.md,19,4
