@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kotter,60,51
+/varabyte/kotter/blob/main/examples/input/src/main/kotlin/main.kt,9,6
+/varabyte/kotter/tree/main,7,5
+/varabyte/kotter/blob/main/examples/list/src/main/kotlin/main.kt,6,5
+/varabyte/kotter/tree/main/examples,4,4
+/varabyte/kotter/tree/main/examples/list/src/main/kotlin,4,4
+/varabyte/kotter/tree/main/examples/input,4,3
+/varabyte/kotter/tree/main/examples/list,4,3
+/varabyte/kotter/tree/main/kotter/src/jvmMain/kotlin/com/varabyte/kotter/platform,4,1
+/varabyte/kotter/tree/main/examples/input/src/main/kotlin,3,3
