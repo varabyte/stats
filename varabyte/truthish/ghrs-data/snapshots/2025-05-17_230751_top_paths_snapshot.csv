@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/truthish,26,14
+/varabyte/truthish/tree/main/src,10,3
+/varabyte/truthish/tree/main/src/commonMain/kotlin/com/varabyte/truthish,8,2
+/varabyte/truthish/blob/main/src/commonMain/kotlin/com/varabyte/truthish/subjects/AnySubject.kt,7,2
+/varabyte/truthish/tree/main/src/commonMain/kotlin/com/varabyte/truthish/subjects,6,2
+/varabyte/truthish/issues,5,2
+/varabyte/truthish/blob/main/src/commonMain/kotlin/com/varabyte/truthish/subjects/StringSubject.kt,3,2
+/varabyte/truthish/activity,3,1
+/varabyte/truthish/blob/main/src/commonMain/kotlin/com/varabyte/truthish/Truth.kt,3,1
+/varabyte/truthish/blob/main/build.gradle.kts,2,2
