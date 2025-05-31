@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates/tree/1d6d41fda724d6c451a1a63c5b0c4012f702ef4f,18,10
+/varabyte/kobweb-templates/tree/1d6d41fda724d6c451a1a63c5b0c4012f702ef4f/examples,11,9
+/varabyte/kobweb-templates/tree/1d6d41fda724d6c451a1a63c5b0c4012f702ef4f/app,9,5
+/varabyte/kobweb-templates,7,7
+/varabyte/kobweb-templates/tree/1d6d41fda724d6c451a1a63c5b0c4012f702ef4f/app/default,6,4
+/varabyte/kobweb-templates/tree/1d6d41fda724d6c451a1a63c5b0c4012f702ef4f/app/default/site,6,3
+/varabyte/kobweb-templates/tree/1d6d41fda724d6c451a1a63c5b0c4012f702ef4f/app/default/site/src/site,6,3
+/varabyte/kobweb-templates/tree/main/examples,5,5
+/varabyte/kobweb-templates/blob/1d6d41fda724d6c451a1a63c5b0c4012f702ef4f/app/default/site/src/site/pages/Index.kt.ftl,3,3
+/varabyte/kobweb-templates/blob/1d6d41fda724d6c451a1a63c5b0c4012f702ef4f/examples/todo/site/src/jsMain/kotlin/todo/pages/Index.kt,3,3
