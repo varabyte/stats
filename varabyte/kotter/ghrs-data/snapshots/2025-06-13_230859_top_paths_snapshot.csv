@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kotter,68,48
+/varabyte/kotter/actions,12,2
+/varabyte/kotter/actions/workflows/publish.yml,12,1
+/varabyte/kotter/tree/dev,8,1
+/varabyte/kotter/blob/main/kotter/build.gradle.kts,6,3
+/varabyte/kotter/actions/runs/15617473755,6,2
+/varabyte/kotter/actions/workflows/coverage-badge.yaml,5,1
+/varabyte/kotter/tree/dev/gradle,5,1
+/varabyte/kotter/tree/main/examples,4,2
+/varabyte/kotter/tree/dev/gradle/build-logic,4,1
