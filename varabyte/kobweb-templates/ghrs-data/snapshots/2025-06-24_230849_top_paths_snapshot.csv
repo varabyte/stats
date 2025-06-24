@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates,12,8
+/varabyte/kobweb-templates/tree/1d6d41fda724d6c451a1a63c5b0c4012f702ef4f,9,9
+/varabyte/kobweb-templates/tree/1d6d41fda724d6c451a1a63c5b0c4012f702ef4f/examples,7,7
+/varabyte/kobweb-templates/tree/main/examples,7,4
+/varabyte/kobweb-templates/tree/main/examples/chat,5,3
+/varabyte/kobweb-templates/tree/1d6d41fda724d6c451a1a63c5b0c4012f702ef4f/app,4,4
+/varabyte/kobweb-templates/tree/1d6d41fda724d6c451a1a63c5b0c4012f702ef4f/examples/todo,4,3
+/varabyte/kobweb-templates/tree/1d6d41fda724d6c451a1a63c5b0c4012f702ef4f/examples/todo/site,3,2
+/varabyte/kobweb-templates/tree/main/examples/todo,3,2
+/varabyte/kobweb-templates/blob/f428d7f0661575543b6a71020a02082aeff49792/examples/todo/site/src/jsMain/kotlin/todo/components/widgets/TodoForm.kt,3,1
