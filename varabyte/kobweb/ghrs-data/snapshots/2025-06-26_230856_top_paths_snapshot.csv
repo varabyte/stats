@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb,498,262
+/varabyte/kobweb/pulls,124,11
+/varabyte/kobweb/pull/700,107,5
+/varabyte/kobweb/issues,73,25
+/varabyte/kobweb/pull/700/files,73,3
+/varabyte/kobweb/pull/709,71,7
+/varabyte/kobweb/pull/709/files,43,4
+/varabyte/kobweb/actions/workflows/publish.yml,24,1
+/varabyte/kobweb/releases/tag/v0.22.0,20,17
+/varabyte/kobweb/issues/708,18,5
