@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates/tree/e31febcfecbfd1244c8d658970713f1bcf8424e1,22,12
+/varabyte/kobweb-templates/tree/e31febcfecbfd1244c8d658970713f1bcf8424e1/examples,19,8
+/varabyte/kobweb-templates/tree/main/examples,12,8
+/varabyte/kobweb-templates,11,8
+/varabyte/kobweb-templates/blob/e31febcfecbfd1244c8d658970713f1bcf8424e1/examples/todo/site/src/jsMain/kotlin/todo/pages/Index.kt,10,2
+/varabyte/kobweb-templates/blob/e31febcfecbfd1244c8d658970713f1bcf8424e1/examples/todo/site/src/jvmMain/kotlin/todo/model/TodoStore.kt,10,1
+/varabyte/kobweb-templates/tree/e31febcfecbfd1244c8d658970713f1bcf8424e1/examples/opengl,8,5
+/varabyte/kobweb-templates/blob/e31febcfecbfd1244c8d658970713f1bcf8424e1/examples/chat/chat/src/jvmMain/kotlin/chat/chat/api/Chat.kt,7,1
+/varabyte/kobweb-templates/tree/e31febcfecbfd1244c8d658970713f1bcf8424e1/app,6,5
+/varabyte/kobweb-templates/tree/e31febcfecbfd1244c8d658970713f1bcf8424e1/examples/todo,6,4
