@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb,729,383
+/varabyte/kobweb/issues,97,31
+/varabyte/kobweb/blob/main/README.md,81,3
+/varabyte/kobweb/branches,60,5
+/varabyte/kobweb/commits/dev,48,7
+/varabyte/kobweb/tree/dev,47,11
+/varabyte/kobweb/pulls,37,10
+/varabyte/kobweb/releases,20,17
+/varabyte/kobweb/pull/712,20,7
+/varabyte/kobweb/actions/workflows/publish.yml,17,2
