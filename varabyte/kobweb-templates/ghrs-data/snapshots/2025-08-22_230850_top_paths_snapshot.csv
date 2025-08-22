@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates/tree/e31febcfecbfd1244c8d658970713f1bcf8424e1,5,3
+/varabyte/kobweb-templates,3,3
+/varabyte/kobweb-templates/blob/e31febcfecbfd1244c8d658970713f1bcf8424e1/examples/chat/auth/src/jsMain/kotlin/chat/auth/components/sections/LoggedOut.kt,2,1
+/varabyte/kobweb-templates/blob/e31febcfecbfd1244c8d658970713f1bcf8424e1/examples/chat/auth/src/jsMain/kotlin/chat/auth/pages/account/Create.kt,2,1
+/varabyte/kobweb-templates/blob/e31febcfecbfd1244c8d658970713f1bcf8424e1/examples/chat/auth/src/jvmMain/kotlin/chat/auth/api/account/Create.kt,2,1
+/varabyte/kobweb-templates/blob/e31febcfecbfd1244c8d658970713f1bcf8424e1/examples/chat/auth/src/jvmMain/kotlin/chat/auth/api/account/Login.kt,2,1
+/varabyte/kobweb-templates/tree/e31febcfecbfd1244c8d658970713f1bcf8424e1/examples,2,1
+/varabyte/kobweb-templates/tree/e31febcfecbfd1244c8d658970713f1bcf8424e1/examples/todo,2,1
+/varabyte/kobweb-templates/blob/e31febcfecbfd1244c8d658970713f1bcf8424e1/app/empty/settings.gradle.kts.ftl,1,1
+/varabyte/kobweb-templates/blob/e31febcfecbfd1244c8d658970713f1bcf8424e1/app/empty/site/build.gradle.kts.ftl,1,1
