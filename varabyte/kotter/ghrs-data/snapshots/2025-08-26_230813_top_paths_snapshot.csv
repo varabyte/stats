@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kotter,4,3
+/varabyte/kotter/commits,2,1
+/varabyte/kotter/blob/main/CONTRIBUTING.md,1,1
+/varabyte/kotter/blob/main/examples/anim/src/main/kotlin/main.kt,1,1
+/varabyte/kotter/blob/main/examples/doomfire/src/main/kotlin/main.kt,1,1
+/varabyte/kotter/blob/main/examples/mosaic/robot/src/main/kotlin/main.kt,1,1
+/varabyte/kotter/blob/main/examples/snake,1,1
+/varabyte/kotter/blob/main/examples/snake/src/main/kotlin/main.kt,1,1
+/varabyte/kotter/blob/main/.github/workflows/coverage-badge.yaml,1,1
+/varabyte/kotter/blob/main/kotter/build.gradle.kts,1,1
