@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/truthish,33,11
+/varabyte/truthish/actions/workflows/publish.yml,15,1
+/varabyte/truthish/issues,12,4
+/varabyte/truthish/pull/12,10,5
+/varabyte/truthish/actions,10,1
+/varabyte/truthish/commits/refs/heads/dev,8,1
+/varabyte/truthish/issues/13,7,2
+/varabyte/truthish/actions/workflows/gradle-test-all.yml,5,1
+/varabyte/truthish/commit/787646bd89292df3a0bcc30dbf3f3854e8b5947e,4,3
+/varabyte/truthish/blob/main/build.gradle.kts,4,2
