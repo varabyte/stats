@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb,405,240
+/varabyte/kobweb/releases/tag/v0.24.0,44,26
+/varabyte/kobweb/releases,34,22
+/varabyte/kobweb/issues,32,17
+/varabyte/kobweb/milestone/1,16,7
+/varabyte/kobweb/pulls,15,7
+/varabyte/kobweb/blob/main/COMPATIBILITY.md,10,10
+/varabyte/kobweb/pull/775,10,5
+/varabyte/kobweb/commits/dev,10,4
+/varabyte/kobweb/actions/workflows/publish.yml,10,2
