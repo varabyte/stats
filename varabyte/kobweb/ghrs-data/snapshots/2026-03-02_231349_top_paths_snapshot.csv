@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb,432,247
+/varabyte/kobweb/releases/tag/v0.24.0,46,28
+/varabyte/kobweb/releases,36,21
+/varabyte/kobweb/issues,31,16
+/varabyte/kobweb/milestone/1,18,9
+/varabyte/kobweb/pulls,17,8
+/varabyte/kobweb/commits/main,15,11
+/varabyte/kobweb/blob/main/frontend/silk-icons-mdi/build.gradle.kts,15,7
+/varabyte/kobweb/pull/775,13,7
+/varabyte/kobweb/actions/workflows/publish.yml,12,4
