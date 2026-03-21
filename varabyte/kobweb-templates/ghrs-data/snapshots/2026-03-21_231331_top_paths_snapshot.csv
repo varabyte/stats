@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates/tree/main/examples/todo,15,14
+/varabyte/kobweb-templates,13,11
+/varabyte/kobweb-templates/tree/main/examples,10,7
+/varabyte/kobweb-templates/tree/main/examples/todo/site,9,8
+/varabyte/kobweb-templates/blob/main/examples/todo/site/build.gradle.kts,7,3
+/varabyte/kobweb-templates/pull/18,7,3
+/varabyte/kobweb-templates/tree/main/examples/todo/site/src,6,6
+/varabyte/kobweb-templates/tree/main/examples/todo/site/src/jsMain/kotlin/todo,6,4
+/varabyte/kobweb-templates/blob/main/examples/todo/site/src/jsMain/kotlin/todo/pages/Index.kt,6,3
+/varabyte/kobweb-templates/blob/main/examples/todo/site/src/jsMain/kotlin/todo/components/widgets/TodoCard.kt,5,4
