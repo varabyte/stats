@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates,13,9
+/varabyte/kobweb-templates/tree/main/examples/todo,10,8
+/varabyte/kobweb-templates/tree/main/examples,7,3
+/varabyte/kobweb-templates/pulls,5,1
+/varabyte/kobweb-templates/tree/main/examples/chat,3,2
+/varabyte/kobweb-templates/tree/main,3,1
+/varabyte/kobweb-templates/tree/main/examples/todo/site,2,2
+/varabyte/kobweb-templates/tree/main/examples/todo/site/src,2,2
+/varabyte/kobweb-templates/tree/main/examples/todo/site/src/commonMain/kotlin/todo/model,2,2
+/varabyte/kobweb-templates/blob/main/examples/todo/gradle.properties,2,1
