@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kotter,73,45
+/varabyte/kotter/issues,34,9
+/varabyte/kotter/issues/138,18,3
+/varabyte/kotter/pulls,9,8
+/varabyte/kotter/discussions,8,5
+/varabyte/kotter/actions,8,1
+/varabyte/kotter/actions/workflows/publish.yml,6,1
+/varabyte/kotter/issues/139,4,1
+/varabyte/kotter/blob/main/examples/life,2,2
+/varabyte/kotter/blob/main/examples/mosaic/robot/src/main/kotlin/main.kt,2,2
