@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates/tree/main/examples/todo,12,9
+/varabyte/kobweb-templates,9,7
+/varabyte/kobweb-templates/tree/main/examples,9,5
+/varabyte/kobweb-templates/blob/main/examples/todo/site/src/jsMain/kotlin/todo/pages/Index.kt,3,3
+/varabyte/kobweb-templates/tree/main/examples/todo/site/src/jsMain,3,3
+/varabyte/kobweb-templates/pull/19/commits,3,1
+/varabyte/kobweb-templates/blob/main/examples/todo/site/src/jsMain/kotlin/todo/AppEntry.kt,2,2
+/varabyte/kobweb-templates/blob/main/examples/todo/site/src/jsMain/kotlin/todo/components/widgets/LoadingSpinner.kt,2,2
+/varabyte/kobweb-templates/blob/main/examples/todo/site/src/jvmMain/kotlin/todo/api/Add.kt,2,2
+/varabyte/kobweb-templates/tree/main/app,2,2
