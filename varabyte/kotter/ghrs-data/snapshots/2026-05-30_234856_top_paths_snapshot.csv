@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kotter,63,29
+/varabyte/kotter/discussions,11,3
+/varabyte/kotter/blob/main/kotter/src/linuxX64Main/kotlin/com/varabyte/kotter/terminal/native/NativeTerminal.kt,5,1
+/varabyte/kotter/pulls,5,1
+/varabyte/kotter/blob/main/examples/snake,4,4
+/varabyte/kotter/issues/151,4,3
+/varabyte/kotter/blob/main/kotter/build.gradle.kts,4,1
+/varabyte/kotter/blob/main/kotter/src/posixMain/kotlin/com/varabyte/kotter/terminal/native/NativeTerminal.kt,4,1
+/varabyte/kotter/tree/main/kotter,3,2
+/varabyte/kotter/blob/main/.github/workflows/publish.yml,2,2
