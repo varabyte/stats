@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb,215,146
+/varabyte/kobweb/stargazers,95,3
+/varabyte/kobweb/releases/tag/v0.24.0,45,8
+/varabyte/kobweb/pull/782,30,8
+/varabyte/kobweb/issues,26,9
+/varabyte/kobweb/milestone/1,26,5
+/varabyte/kobweb/blob/main/README.md,26,2
+/varabyte/kobweb/pulls,22,7
+/varabyte/kobweb/tree/dev,11,5
+/varabyte/kobweb/blob/72aaa6237e104be43120d8d7436a7720e172f31f/frontend/browser-ext/src/jsMain/kotlin/com/varabyte/kobweb/browser/coroutines/WorkerDispatcher.kt,9,3
