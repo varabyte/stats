@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb,232,142
+/varabyte/kobweb/discussions/662,22,19
+/varabyte/kobweb/releases,16,13
+/varabyte/kobweb/issues,10,7
+/varabyte/kobweb/compare/v0.24.1...v0.25.0,6,4
+/varabyte/kobweb/blob/main/tools/gradle-plugins/core/src/main/kotlin/com/varabyte/kobweb/gradle/core/kmp/MultiplatformExtensions.kt,6,1
+/varabyte/kobweb/releases/tag/v0.25.0,5,5
+/varabyte/kobweb/pulls,5,4
+/varabyte/kobweb/blob/main/COMPATIBILITY.md,4,3
+/varabyte/kobweb/releases/tag/v0.12.5,4,3
