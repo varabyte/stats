@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb,244,117
+/varabyte/kobweb/releases/tag/v0.25.0,19,13
+/varabyte/kobweb/releases,18,13
+/varabyte/kobweb/actions,17,1
+/varabyte/kobweb/issues,15,7
+/varabyte/kobweb/actions/workflows/publish.yml,15,2
+/varabyte/kobweb/tree/dev,10,2
+/varabyte/kobweb/issues/791,7,3
+/varabyte/kobweb/blob/main/tools/gradle-plugins/core/src/main/kotlin/com/varabyte/kobweb/gradle/core/KobwebCorePlugin.kt,7,2
+/varabyte/kobweb/pulls,6,5
