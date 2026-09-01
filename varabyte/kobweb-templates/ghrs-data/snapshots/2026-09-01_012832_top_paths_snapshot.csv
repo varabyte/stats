@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates/tree/main/examples/todo,14,12
+/varabyte/kobweb-templates/tree/main/app/empty/site,5,2
+/varabyte/kobweb-templates/tree/main/library/sitelib,5,2
+/varabyte/kobweb-templates/tree/main,4,3
+/varabyte/kobweb-templates/tree/main/app,4,3
+/varabyte/kobweb-templates/blob/main/library/sitelib/build.gradle.kts.ftl,4,2
+/varabyte/kobweb-templates/tree/main/examples,3,3
+/varabyte/kobweb-templates/tree/main/examples/todo/default,3,3
+/varabyte/kobweb-templates/tree/main/examples/todo/legacy/v0.9.21,3,3
+/varabyte/kobweb-templates/tree/main/app/empty,3,2
