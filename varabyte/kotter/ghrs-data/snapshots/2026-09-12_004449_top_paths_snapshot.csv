@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kotter,57,34
+/varabyte/kotter/discussions,9,4
+/varabyte/kotter/issues,4,4
+/varabyte/kotter/pulls,4,4
+/varabyte/kotter/actions,2,2
+/varabyte/kotter/blob/main/settings.gradle.kts,2,2
+/varabyte/kotter/blob/main/examples/compiler,2,1
+/varabyte/kotter/blob/main/.gitignore,1,1
+/varabyte/kotter/blob/main/examples/grid/README.md,1,1
+/varabyte/kotter/blob/main/examples/life,1,1
