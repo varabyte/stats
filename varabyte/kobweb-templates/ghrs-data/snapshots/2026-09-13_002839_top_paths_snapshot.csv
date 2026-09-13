@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates/tree/main/examples/todo,8,8
+/varabyte/kobweb-templates,5,4
+/varabyte/kobweb-templates/tree/main/examples/todo/default,5,4
+/varabyte/kobweb-templates/tree/main/examples/todo/default/site/src,5,3
+/varabyte/kobweb-templates/tree/main/examples/todo/default/site/src/jvmMain/kotlin/todo,5,3
+/varabyte/kobweb-templates/tree/c90509d23c9e13761e7a03a1936f0277bee4bb93/examples,5,2
+/varabyte/kobweb-templates/tree/c90509d23c9e13761e7a03a1936f0277bee4bb93,4,4
+/varabyte/kobweb-templates/tree/main/examples/todo/default/site,4,3
+/varabyte/kobweb-templates/tree/main/examples/todo/default/site/src/jsMain,4,3
+/varabyte/kobweb-templates/blob/main/examples/todo/default/site/src/jvmMain/kotlin/todo/model/datastore/TodoDataStore.kt,4,2
