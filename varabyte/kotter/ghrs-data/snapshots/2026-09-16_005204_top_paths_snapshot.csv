@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kotter,64,37
+/varabyte/kotter/discussions,12,4
+/varabyte/kotter/issues,8,7
+/varabyte/kotter/pulls,3,3
+/varabyte/kotter/issues/114,2,2
+/varabyte/kotter/issues/138,2,2
+/varabyte/kotter/releases,2,2
+/varabyte/kotter/releases/tag/v1.4.0,2,2
+/varabyte/kotter/blob/main/examples/compiler,2,1
+/varabyte/kotter/actions,1,1
