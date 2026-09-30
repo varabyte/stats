@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb,246,117
+/varabyte/kobweb/issues,10,9
+/varabyte/kobweb/releases/tag/v0.25.1,10,9
+/varabyte/kobweb/releases,9,6
+/varabyte/kobweb/blob/main/README.md,6,4
+/varabyte/kobweb/pulse,6,2
+/varabyte/kobweb/tags,6,2
+/varabyte/kobweb/pulls,5,5
+/varabyte/kobweb/commits/main,4,4
+/varabyte/kobweb/blob/main/tools/gradle-plugins/extensions/markdown/src/main/kotlin/com/varabyte/kobwebx/gradle/markdown/handlers/MarkdownHandlers.kt,4,1
