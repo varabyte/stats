@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/varabyte/kobweb-templates,6,6
+/varabyte/kobweb-templates/tree/main/examples/todo,4,4
+/varabyte/kobweb-templates/pull/22/changes,4,1
+/varabyte/kobweb-templates/pull/22,3,2
+/varabyte/kobweb-templates/tree/c90509d23c9e13761e7a03a1936f0277bee4bb93,2,1
+/varabyte/kobweb-templates/tree/main/examples/todo/default/site/src,2,1
+/varabyte/kobweb-templates/tree/main/examples/todo/default/site/src/jsMain,2,1
+/varabyte/kobweb-templates/blob/c90509d23c9e13761e7a03a1936f0277bee4bb93/app/default/site/src/site/components/sections/NavHeader.kt.ftl,1,1
+/varabyte/kobweb-templates/blob/main/README.md,1,1
+/varabyte/kobweb-templates/compare/main...CLOVIS-AI:kobweb-templates:upgrade-ktmongo,1,1
